@@ -1,0 +1,1 @@
+Minha percepção é que usando a parte3 como referência, eu consigo interagir com o desconto, sem atrapalhar a classe que a está chamado, isso abre um leque de oportunidades para manutenção e novos features, usando a como base a parte 1, não é interessante, pois mexer nela pode acarrear em quebra de outros códigos que dependem dela.
