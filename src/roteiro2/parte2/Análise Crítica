@@ -1,0 +1,1 @@
+Acredito que o principio foi atendido ao "forçar" que os descntos extendam a classe RegraDesconto, assim todo novo desconto que possa aparecer só funcionará claso seja um desconto cm método pré definidos pela RegraDesconto

@@ -1,0 +1,1 @@
+A melhor opção é criar uma classe desconto livre (Como feito na parte anterior), implementando o RegraDesconto, assim no sistema bastava chamar esse objeto sem afetar o processar pedido!
