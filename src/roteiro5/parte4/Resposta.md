@@ -1,0 +1,1 @@
+Foi utlizado a abordagem da parte 2, pois permite uma maior flexibilidade adicionando novas formas de notifficação no futuro usando SOLID.
