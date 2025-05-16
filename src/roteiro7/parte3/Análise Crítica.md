@@ -1,0 +1,1 @@
+Ao meu ver as melhorias foram extremamente significativas, visto que agora as grid e flow pontilhada e solida, derivam logicamente das suas classes flow e grid.

@@ -1,0 +1,1 @@
+A solução atende, mas não parece a mais ideal pelo fato de que a classe não herda direto da classe flow ou grid, logicamente não fez sentido.
